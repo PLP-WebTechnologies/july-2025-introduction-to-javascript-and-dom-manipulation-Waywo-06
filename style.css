@@ -1,0 +1,28 @@
+body {
+  background-color: white;
+  color: maroon;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+}
+
+header {
+  background-color: #c51a1a;
+  color: white;
+  padding: 1rem;
+}
+
+.hero {
+  border: 2px solid blue;
+  margin: 1rem;
+  padding: 1rem;
+  display: inline-block;
+}
+
+button {
+  background-color: #800000;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  cursor: pointer;
+}
